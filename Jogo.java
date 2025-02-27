@@ -20,7 +20,7 @@ class Jogo {
         System.out.println("Escolha uma classe:");
         System.out.println("1. Monge (135 Hp, 10 Mp, alcance 2, move 6, ataque 15)");
         System.out.println("2. Guerreiro (130 Hp, 10 Mp, alcance 3, move 3, ataque 20)");
-        System.out.println("3. Arqueiro (85 Hp, 20 Mp, alcance 6, move 2, ataque 30)");
+        System.out.println("3. Arqueiro (100 Hp, 20 Mp, alcance 6, move 2, ataque 30)");
         System.out.println("4. Mago (80 Hp, 30 Mp, alcance 4, move 1, ataque 35)");
 
         int escolha = scanner.nextInt();
